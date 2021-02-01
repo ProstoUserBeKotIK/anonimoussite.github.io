@@ -1,5 +1,5 @@
 <body>
-   <text="red">Добро пожаловать на сайт анонимусов </a>
+   <text="red">Добро пожаловать на сайт анонимусов </text>
 </body>
 
 You can use the [editor on GitHub](https://github.com/ProstoUserBeKotIK/anonimoussite.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
