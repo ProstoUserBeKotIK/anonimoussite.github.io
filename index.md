@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на сайт анонимусов
 
 You can use the [editor on GitHub](https://github.com/ProstoUserBeKotIK/anonimoussite.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `ЗЕЛЕНЫЙ` text
 
 [Link](url) and ![Image](src)
 ```
